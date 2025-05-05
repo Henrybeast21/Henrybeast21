@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Henrybeast21
-- 👀 I’m interested in Games, Coding, Tech
-- 💞️ I’m looking to collaborate on how to code.
-- 📫 How to reach me, send me an email...
-- 😄 Pronouns: fu- pronouns I was born a guy and am a guy.
-- ⚡ Fun fact: I hate this generation of 2023
-
-<!---
-Henrybeast21/Henrybeast21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Angelo
+- 👀 I’m interested many things
+- 📫 How to reach me: Just send me an email
+- 😄 Pronouns: born a guy, am a guy.
+- ⚡ Fun fact: I hate this generation of 2023, 2024,
+- ⚡ Fun fact #2: Trump saved the generation when he made it back to 2 generations.
